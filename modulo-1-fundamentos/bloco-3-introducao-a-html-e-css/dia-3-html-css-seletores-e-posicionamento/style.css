@@ -1,0 +1,36 @@
+.super-mario {
+  display: block;
+  width: 200px;
+}
+
+.goomba {
+  width: 100px;
+}
+
+.speach {
+  position: absolute;
+  font-size: 25px;
+  margin-top: 60px;
+  margin-left: 20px;
+  z-index: 1;
+}
+
+.bowser {
+  margin-left: 250px;
+  width: 200px;
+}
+
+#mario_goomba {
+  display: inline-block;
+  margin-right: 100px;
+  text-align: center;
+}
+
+#baloon_speech {
+  display: block;
+  box-sizing: content-box;
+}
+
+#baloon_bowser {
+  display: inline-block;
+}
